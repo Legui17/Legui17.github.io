@@ -1,0 +1,13 @@
+body{background: #E6E6FA url(imagenes/bg_page.png) repeat-y fixed center;}
+
+div{text-align: center;
+    font-weight: 750px;}
+
+h1{font-family: Calibri;
+    font-weight: 32px;
+    color: darkred;
+    text-align: center;}
+
+p{font-family: Verdana;
+    font-weight: 32px;
+    color: gray;}
